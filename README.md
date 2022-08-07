@@ -17,11 +17,10 @@ Display weather outlook for multiple cities
 https://lhaurod.github.io/weather-app/
 
 Screenshots
-<img width="1244" alt="Initial-Look" src="https://user-images.githubusercontent.com/106787987/183307961-32824504-e0da-4873-ada0-bbe8b74171b2.png">
-<img width="2193" alt="City-Search" src="https://user-images.githubusercontent.com/106787987/183307962-d6413a01-5787-4bb7-9fad-6d3fb7770919.png">
-<img width="1212" alt="History-Removed" src="https://user-images.githubusercontent.com/106787987/183307967-ec361819-182c-4714-9c82-9f483886f123.png">
-<img width="2152" alt="New-Search" src="https://user-images.githubusercontent.com/106787987/183307968-c2e24b16-368e-4aaa-b2dc-68f1a91839ca.png">
-
+<img width="2190" alt="Initial-look" src="https://user-images.githubusercontent.com/106787987/183308519-ac52812e-1a5c-4dcd-940d-49059ff1b7dc.png">
+<img width="2186" alt="City-Search" src="https://user-images.githubusercontent.com/106787987/183308522-6b7a0659-772f-4077-b6d1-6029ae7c7fc0.png">
+<img width="2191" alt="History-Removed" src="https://user-images.githubusercontent.com/106787987/183308526-44471417-31b5-4f40-a919-f320dc4bf475.png">
+<img width="2192" alt="New-Search" src="https://user-images.githubusercontent.com/106787987/183308529-30d0ccee-ed07-46bf-923a-20a11d5f86bb.png">
 
 
 
